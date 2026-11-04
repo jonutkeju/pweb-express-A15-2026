@@ -1,0 +1,5354 @@
+[
+  {
+    "name": "Force Warrior",
+    "heroId": 3,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 1,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 23,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Burning Bow",
+    "heroId": 1,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Ghoul's Fury",
+    "heroId": 2,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Power Source",
+    "heroId": 2,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Golden Flash",
+    "heroId": 3,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Spirit Woman",
+    "heroId": 4,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Clockwork Maid",
+    "heroId": 5,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Graveyard Party",
+    "heroId": 5,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dark Guardian",
+    "heroId": 6,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Lone Hero",
+    "heroId": 7,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 8,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Phantom Blade",
+    "heroId": 8,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Summer Party",
+    "heroId": 9,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Masterchef",
+    "heroId": 10,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Castle Master",
+    "heroId": 11,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Best DJ",
+    "heroId": 12,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Vanguard Elite",
+    "heroId": 12,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Sun n Sand",
+    "heroId": 13,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Fertility Goddess",
+    "heroId": 14,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 15,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Flame Red Lips",
+    "heroId": 15,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Campus Youth",
+    "heroId": 17,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Green Flash",
+    "heroId": 18,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Bursting Yama",
+    "heroId": 19,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Soldier in Training",
+    "heroId": 20,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Spacetime Shadow",
+    "heroId": 21,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Professor of Hell",
+    "heroId": 23,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Glass Blade",
+    "heroId": 24,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Flower Season",
+    "heroId": 25,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Hip-hop Boy",
+    "heroId": 26,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Bunny Babe",
+    "heroId": 18,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Captain Thorns",
+    "heroId": 1,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dragon Hunter",
+    "heroId": 22,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Phantom Dancer",
+    "heroId": 24,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Power of Wildness",
+    "heroId": 35,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Snake Eye Commander",
+    "heroId": 31,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Nature's Throne",
+    "heroId": 36,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Lucent Beacon",
+    "heroId": 38,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Eastern Warrior",
+    "heroId": 16,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Black Pearl",
+    "heroId": 8,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Apocalypse",
+    "heroId": 10,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Elite Warrior",
+    "heroId": 16,
+    "rarity": "COMMON",
+    "priceDiamond": 399
+  },
+  {
+    "name": "Battle Buddha",
+    "heroId": 27,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Fierce Dragon",
+    "heroId": 28,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Cat Girl",
+    "heroId": 29,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Ancestral Blade",
+    "heroId": 37,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Dark Gent",
+    "heroId": 39,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Rising Star",
+    "heroId": 40,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Mighty Guardian",
+    "heroId": 41,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Naughty Joker",
+    "heroId": 42,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Silver Cyclone",
+    "heroId": 43,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Rock and Roll",
+    "heroId": 13,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Modena Butterfly",
+    "heroId": 1,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Honor",
+    "heroId": 1,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Grave Guardian",
+    "heroId": 44,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Light of Dawn",
+    "heroId": 45,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Black Swan",
+    "heroId": 46,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Heartbreak Empress",
+    "heroId": 36,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dr. Beast",
+    "heroId": 39,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Pigeoneer",
+    "heroId": 48,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Dark Draconic",
+    "heroId": 45,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "S.A.B.E.R. Savior",
+    "heroId": 14,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Fleet Warden",
+    "heroId": 30,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Blood Spear",
+    "heroId": 31,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Rattan Dragon",
+    "heroId": 34,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Flower of the Wastes",
+    "heroId": 35,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hellfire",
+    "heroId": 43,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Crystallized Predator",
+    "heroId": 50,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Viscount",
+    "heroId": 7,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Exoracial Executer",
+    "heroId": 51,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Wings of Heaven",
+    "heroId": 52,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Savage Hunter",
+    "heroId": 2,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Codename - Storm",
+    "heroId": 3,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wizardry Teacher",
+    "heroId": 4,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Slumber Party",
+    "heroId": 5,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Fallen Guard",
+    "heroId": 6,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Child of the Fall",
+    "heroId": 7,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fiery Inferno",
+    "heroId": 7,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Monk",
+    "heroId": 9,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Guns and Roses",
+    "heroId": 13,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Flower Fairy",
+    "heroId": 14,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Emerald Enchantress",
+    "heroId": 15,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Vivo Selfie Goddess",
+    "heroId": 15,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Glorious General",
+    "heroId": 16,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Punk Princess",
+    "heroId": 17,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Blue Spectre",
+    "heroId": 18,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cannon and Roses",
+    "heroId": 18,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Classic Malefic Gunner",
+    "heroId": 18,
+    "rarity": "COMMON",
+    "priceDiamond": 51
+  },
+  {
+    "name": "Impish Trickster",
+    "heroId": 20,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Future Enforcer",
+    "heroId": 21,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Beach Sweetheart",
+    "heroId": 22,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Dark Rose",
+    "heroId": 22,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "War Angel",
+    "heroId": 22,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cherry Witch",
+    "heroId": 25,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Dragon Boy",
+    "heroId": 26,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "King of Muay Thai",
+    "heroId": 26,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Rock Star",
+    "heroId": 27,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Onimusha Commander",
+    "heroId": 28,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hidden Orchid Butterfly",
+    "heroId": 29,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Apocalypse Agent",
+    "heroId": 30,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Major General",
+    "heroId": 30,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Roguish Ranger",
+    "heroId": 30,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Spear of Bone Dragon",
+    "heroId": 31,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Fire Chief",
+    "heroId": 32,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Exorcist",
+    "heroId": 33,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Super Adventurer",
+    "heroId": 33,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Holy Priest",
+    "heroId": 34,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Imperial Champion",
+    "heroId": 37,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Bladed Mantis",
+    "heroId": 40,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Dragon Queen",
+    "heroId": 40,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Anubis",
+    "heroId": 39,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Masked Knight",
+    "heroId": 47,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Royal Musketeer",
+    "heroId": 53,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Girl Scout",
+    "heroId": 54,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Dove&Love",
+    "heroId": 55,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Sweet Fantasy",
+    "heroId": 1,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Romantic Fantasy",
+    "heroId": 7,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Foxy Lady",
+    "heroId": 36,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Tyrant",
+    "heroId": 58,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Nightarrow",
+    "heroId": 43,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "The Deep One",
+    "heroId": 69,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Astrocat",
+    "heroId": 70,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Stardust",
+    "heroId": 72,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Gilded King",
+    "heroId": 73,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Royal Magus",
+    "heroId": 76,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Summer Sparks",
+    "heroId": 76,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Susanoo",
+    "heroId": 77,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Bone Flamen",
+    "heroId": 50,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Royal Magister",
+    "heroId": 42,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Moonlight Sonata",
+    "heroId": 56,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Pale Flame",
+    "heroId": 57,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Ancient Soul",
+    "heroId": 59,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Resplendent Iris",
+    "heroId": 60,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Peafowl's Dance",
+    "heroId": 52,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Commandment",
+    "heroId": 62,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Searing Maw",
+    "heroId": 58,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Akazonae Samurai",
+    "heroId": 9,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wasteland Psycho",
+    "heroId": 44,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Butterfly Goddess",
+    "heroId": 46,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 47,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Evolved Predator",
+    "heroId": 51,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Cheergunner",
+    "heroId": 53,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Referee",
+    "heroId": 42,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Space Explorer",
+    "heroId": 54,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Shanghai Maiden",
+    "heroId": 55,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Moonstruck",
+    "heroId": 61,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Wasp Queen",
+    "heroId": 63,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Red Mantle",
+    "heroId": 64,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Sanguine Rose",
+    "heroId": 38,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dark Earl",
+    "heroId": 47,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Phantom Hunter",
+    "heroId": 39,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Great Inventor",
+    "heroId": 42,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Phantom Seer",
+    "heroId": 49,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Mermaid Princess",
+    "heroId": 46,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Royal Matador",
+    "heroId": 47,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Stellaris Ghost",
+    "heroId": 53,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Suzuhime",
+    "heroId": 1,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hairstylist",
+    "heroId": 56,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Arcane Seeker",
+    "heroId": 57,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Viper",
+    "heroId": 60,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Deep Sea Rescuer",
+    "heroId": 33,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cyber Ops",
+    "heroId": 56,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Jester",
+    "heroId": 40,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Arhat King",
+    "heroId": 41,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Plunderous Pirate",
+    "heroId": 65,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sagittarius",
+    "heroId": 43,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Emerald Guardian",
+    "heroId": 69,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Charge Leader",
+    "heroId": 70,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Lightborn - Inspirer",
+    "heroId": 72,
+    "rarity": "DELUXE",
+    "priceDiamond": 1080
+  },
+  {
+    "name": "Savannah Cat",
+    "heroId": 72,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Infernal Magister",
+    "heroId": 76,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Royal Cavalry",
+    "heroId": 17,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sentinel",
+    "heroId": 41,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Atlantean Princess",
+    "heroId": 74,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Savage Pointguard",
+    "heroId": 2,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Fullmetal Ronin",
+    "heroId": 3,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "S.A.B.E.R. Regulator",
+    "heroId": 3,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Divine Owl",
+    "heroId": 4,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Wind Fairy",
+    "heroId": 5,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wyrmslayer",
+    "heroId": 6,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Doom Duelist",
+    "heroId": 8,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Spider Lily",
+    "heroId": 8,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Imperial Assassin",
+    "heroId": 9,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Locomotive",
+    "heroId": 10,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Deep Sea Monster",
+    "heroId": 11,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Street Football",
+    "heroId": 12,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Biomedic",
+    "heroId": 14,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Blazing Lancer",
+    "heroId": 16,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Changbanpo Commander",
+    "heroId": 16,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 16,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Skylark",
+    "heroId": 17,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "S.A.B.E.R. Breacher",
+    "heroId": 18,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Orbiter",
+    "heroId": 19,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sacred Hammer",
+    "heroId": 19,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Experiment 21",
+    "heroId": 21,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 22,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Gladiator",
+    "heroId": 22,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Conqueror",
+    "heroId": 23,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Deadly Mamba",
+    "heroId": 24,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Midnight Raven",
+    "heroId": 24,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Dragon Maiden",
+    "heroId": 25,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Furious Tiger",
+    "heroId": 26,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Street Legend",
+    "heroId": 27,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sea Gladiator",
+    "heroId": 28,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Edelweiss",
+    "heroId": 29,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Decapitator",
+    "heroId": 31,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Javelin Champion",
+    "heroId": 31,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Yasha",
+    "heroId": 31,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Jeepney Racer",
+    "heroId": 32,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "S.A.B.E.R. Automata",
+    "heroId": 32,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "S.A.B.E.R. Enforcer",
+    "heroId": 33,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Zombie Bambino",
+    "heroId": 33,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "White Crane",
+    "heroId": 34,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sacred Guard",
+    "heroId": 35,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Castle Guard",
+    "heroId": 44,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Catastrophe",
+    "heroId": 45,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 46,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Abyssal Shaman",
+    "heroId": 49,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Ice Scythe",
+    "heroId": 51,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "General Rosa",
+    "heroId": 53,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Frostborn Paladin",
+    "heroId": 66,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Virus",
+    "heroId": 63,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Death",
+    "heroId": 64,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Aquarius",
+    "heroId": 36,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cosmic Harmony",
+    "heroId": 67,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Cerulean Winds",
+    "heroId": 75,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Twilight Dragon",
+    "heroId": 31,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Steam Glider",
+    "heroId": 4,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hawkwatch",
+    "heroId": 40,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Virgo",
+    "heroId": 46,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Pisces",
+    "heroId": 47,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dangerous Love",
+    "heroId": 53,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Fleur de Bleau",
+    "heroId": 80,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Sundress",
+    "heroId": 5,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Lion Dance",
+    "heroId": 20,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "The Nutcracker",
+    "heroId": 54,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Summer Vibes",
+    "heroId": 55,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Dangerous Liaison",
+    "heroId": 56,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Bio Frontier",
+    "heroId": 70,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Desert Owl",
+    "heroId": 78,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Indigo Aviatrix",
+    "heroId": 52,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Aries",
+    "heroId": 35,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Onimaru",
+    "heroId": 3,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Leona",
+    "heroId": 8,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Iori Yagami",
+    "heroId": 26,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Athena Asamiya",
+    "heroId": 80,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Mech Protector",
+    "heroId": 59,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fiery Moth",
+    "heroId": 60,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "V.E.N.O.M. Octopus",
+    "heroId": 42,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Ruddy Dusk",
+    "heroId": 81,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Taurus",
+    "heroId": 19,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Bardic Whisper",
+    "heroId": 79,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Ash Blossom",
+    "heroId": 67,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Constellation",
+    "heroId": 48,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Dark Necro",
+    "heroId": 76,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Gemini - Halo",
+    "heroId": 8,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Gemini - Shadow",
+    "heroId": 63,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Abyss Guard",
+    "heroId": 82,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Kaminari",
+    "heroId": 62,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cursed Shackle",
+    "heroId": 38,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cancer",
+    "heroId": 50,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Scalebore",
+    "heroId": 85,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Horror Whiplash",
+    "heroId": 62,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "The Insentient",
+    "heroId": 64,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Leo",
+    "heroId": 77,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "School Idol",
+    "heroId": 86,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Foo Quarterback",
+    "heroId": 54,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "V.E.N.O.M. Vespid",
+    "heroId": 55,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "V.E.N.O.M. Emperor Scorpion",
+    "heroId": 56,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Draconic Flame",
+    "heroId": 57,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "V.E.N.O.M. Nephila",
+    "heroId": 60,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Go Ballistic",
+    "heroId": 26,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Torch Guardian",
+    "heroId": 69,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Liquid Fire",
+    "heroId": 71,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Blue Storm",
+    "heroId": 83,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Crimson Moon",
+    "heroId": 61,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Kula Diamond",
+    "heroId": 36,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Lotus",
+    "heroId": 80,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Doomsday Terminator",
+    "heroId": 79,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Inferno Soul",
+    "heroId": 66,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "White Robin",
+    "heroId": 74,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Winter Guard",
+    "heroId": 88,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Jungle Watcher",
+    "heroId": 49,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Libra",
+    "heroId": 67,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dawn Revelation",
+    "heroId": 67,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Eyes of Eternity",
+    "heroId": 67,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Double Identity",
+    "heroId": 63,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Spark",
+    "heroId": 41,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wild Totem",
+    "heroId": 87,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Poison Vine",
+    "heroId": 81,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "King of Supremacy",
+    "heroId": 64,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Floral Elfo",
+    "heroId": 61,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Scorpio",
+    "heroId": 51,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Shadow of Obscurity",
+    "heroId": 21,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Scream Doll",
+    "heroId": 55,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Iceland Golem",
+    "heroId": 44,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Vulcan",
+    "heroId": 37,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Ancient Golem",
+    "heroId": 44,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "V.E.N.O.M. Monitor Lizard",
+    "heroId": 44,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Winged Nightmare",
+    "heroId": 45,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Auspicious Charm",
+    "heroId": 46,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Floral Knight",
+    "heroId": 47,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Angelic Agent",
+    "heroId": 53,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Lady Zombie",
+    "heroId": 29,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Astral Wanderer",
+    "heroId": 30,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Astral Wanderer",
+    "heroId": 43,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fiery Dance",
+    "heroId": 84,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Darting Star",
+    "heroId": 89,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Ruins Scavenger",
+    "heroId": 85,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Skyblocker",
+    "heroId": 62,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hallowed Lance",
+    "heroId": 90,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Enchanting Witch",
+    "heroId": 52,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Lightborn - Defender",
+    "heroId": 6,
+    "rarity": "DELUXE",
+    "priceDiamond": 1089
+  },
+  {
+    "name": "Empire Agent",
+    "heroId": 7,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Lightborn - Striker",
+    "heroId": 7,
+    "rarity": "DELUXE",
+    "priceDiamond": 1089
+  },
+  {
+    "name": "Obsidian Blade",
+    "heroId": 7,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wheatfield Nightmare",
+    "heroId": 10,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Warlord",
+    "heroId": 11,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Badminton Champion",
+    "heroId": 13,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Lifeguard",
+    "heroId": 17,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Lightborn - Ranger",
+    "heroId": 17,
+    "rarity": "DELUXE",
+    "priceDiamond": 1089
+  },
+  {
+    "name": "Sushi Master",
+    "heroId": 21,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "No.1 Controller",
+    "heroId": 23,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Summer Festival",
+    "heroId": 25,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Wreck King",
+    "heroId": 32,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dictator",
+    "heroId": 57,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Gill-Girl",
+    "heroId": 40,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cyber Cherubin",
+    "heroId": 55,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Night Owl",
+    "heroId": 56,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Demonlord",
+    "heroId": 57,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "God of War",
+    "heroId": 58,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Video-Game Dominator",
+    "heroId": 59,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Rakshesha",
+    "heroId": 60,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Amethyst Dance",
+    "heroId": 80,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Wisteria Countess",
+    "heroId": 92,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Crow Bishop",
+    "heroId": 34,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Lady Thief",
+    "heroId": 81,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Combat Maiden",
+    "heroId": 88,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wisteria Count",
+    "heroId": 91,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Street Punk",
+    "heroId": 84,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Bad Bro",
+    "heroId": 65,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Reactor Core",
+    "heroId": 93,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Star Student",
+    "heroId": 86,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Shoujo Commander",
+    "heroId": 89,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Lethal Lady",
+    "heroId": 53,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hunting Pals",
+    "heroId": 94,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Biosoldier",
+    "heroId": 79,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Thunder Flash",
+    "heroId": 63,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Future Star",
+    "heroId": 86,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Yin-yang Mage",
+    "heroId": 96,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Midnight Justice",
+    "heroId": 90,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Emerald Dragon",
+    "heroId": 95,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Graffiti Fashion",
+    "heroId": 83,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Lunar Magic",
+    "heroId": 61,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Extraterrestrial",
+    "heroId": 50,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Blood Moon",
+    "heroId": 8,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Crow Magician",
+    "heroId": 62,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dragon Armor",
+    "heroId": 88,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Spirited Gauntlet",
+    "heroId": 88,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Biological Weapon",
+    "heroId": 21,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Badass Roller",
+    "heroId": 87,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Teen Pop",
+    "heroId": 89,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Empress Phoenix",
+    "heroId": 52,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Prince of Sand",
+    "heroId": 98,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Insidious Tutor",
+    "heroId": 68,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Orochi Chris",
+    "heroId": 85,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Magician Girl",
+    "heroId": 92,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "The Illusionist",
+    "heroId": 91,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Cleopatra",
+    "heroId": 81,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dream Caster",
+    "heroId": 42,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fuel Turbine",
+    "heroId": 93,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Volcanic Overlord",
+    "heroId": 78,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Armored Lizard",
+    "heroId": 99,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Tribal Howl",
+    "heroId": 94,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Jungle Ranger",
+    "heroId": 1,
+    "rarity": "COMMON",
+    "priceDiamond": 50
+  },
+  {
+    "name": "Pure Heroine",
+    "heroId": 90,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Agent Z",
+    "heroId": 79,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Nameless Stray",
+    "heroId": 100,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Haunted Doll",
+    "heroId": 86,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Hammer Giant",
+    "heroId": 82,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Tenko",
+    "heroId": 96,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Jack-o'-lantern",
+    "heroId": 66,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Strawberry Parfait",
+    "heroId": 61,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Codename: Rhino",
+    "heroId": 44,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Sage of the Currents",
+    "heroId": 46,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Bren Esports",
+    "heroId": 47,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Falcon Mistress",
+    "heroId": 53,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Tesla Maniac",
+    "heroId": 83,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Honor Blade",
+    "heroId": 97,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Blazing Force",
+    "heroId": 64,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Blazing Gun",
+    "heroId": 18,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Neon Lightwheel",
+    "heroId": 40,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Biohazard",
+    "heroId": 95,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Unrestrained Delight",
+    "heroId": 101,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Blazing Shadow",
+    "heroId": 81,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Sakura Wishes",
+    "heroId": 80,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Mecha Baby",
+    "heroId": 5,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Stream Recluse",
+    "heroId": 9,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Blazing Axe",
+    "heroId": 10,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Valhalla Ruler",
+    "heroId": 10,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Firebolt",
+    "heroId": 12,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "The Falcon",
+    "heroId": 12,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Shadow Omen",
+    "heroId": 13,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Witch Hunter",
+    "heroId": 13,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Star Chaser",
+    "heroId": 14,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Countess Scarlet",
+    "heroId": 15,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Summer Waves",
+    "heroId": 16,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 17,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Special Op",
+    "heroId": 20,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Raven Shogun",
+    "heroId": 22,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Cyber Spectre",
+    "heroId": 24,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Grim Strangler",
+    "heroId": 24,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Celestial Outlaw",
+    "heroId": 27,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Crimson Warrior",
+    "heroId": 28,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Street Thrasher",
+    "heroId": 97,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cyborg Werewolf",
+    "heroId": 39,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Death Blow",
+    "heroId": 103,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Bass Craze",
+    "heroId": 35,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Special Force",
+    "heroId": 37,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Pixel Blast",
+    "heroId": 89,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dawning Fortune",
+    "heroId": 96,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Forest Hymn",
+    "heroId": 102,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Phantom Count",
+    "heroId": 91,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Phantom Countess",
+    "heroId": 92,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Dreadful Clown",
+    "heroId": 78,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Crescent Scimitar",
+    "heroId": 98,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "X Factor",
+    "heroId": 105,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Rainy Walk",
+    "heroId": 25,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fist of Zen",
+    "heroId": 77,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Vine Cradle",
+    "heroId": 61,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Toy Rex",
+    "heroId": 99,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Manny Pacquiao",
+    "heroId": 103,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Verdant Enchanter",
+    "heroId": 104,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Starfall Knight",
+    "heroId": 79,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "S.T.U.N. Chou",
+    "heroId": 26,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Blood Serpent",
+    "heroId": 95,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "S.T.U.N. Brody",
+    "heroId": 100,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Monolith Watcher",
+    "heroId": 106,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Floral Crown",
+    "heroId": 101,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "S.T.U.N. Selena",
+    "heroId": 63,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fashion Expert",
+    "heroId": 72,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Ba-tender",
+    "heroId": 87,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Candy Bear",
+    "heroId": 54,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Serene Plume",
+    "heroId": 84,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Simian Curse",
+    "heroId": 27,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Death Oath",
+    "heroId": 97,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "E-girl",
+    "heroId": 89,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Master Yoda",
+    "heroId": 33,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Darth Vader",
+    "heroId": 45,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Time Wielder",
+    "heroId": 107,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Siren Priestess",
+    "heroId": 96,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Berserker",
+    "heroId": 108,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Peony Bloom",
+    "heroId": 52,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Gothic Curse",
+    "heroId": 63,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Realm Watcher",
+    "heroId": 64,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Blitz Attack",
+    "heroId": 105,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Moon Priestess",
+    "heroId": 1,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Springtide",
+    "heroId": 112,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Underground Boxer",
+    "heroId": 103,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Pirate Parrot",
+    "heroId": 29,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Circus Clown",
+    "heroId": 48,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Iron Steed",
+    "heroId": 49,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Night's Edge",
+    "heroId": 109,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Straw Doll",
+    "heroId": 33,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Baratstein",
+    "heroId": 99,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Soaring Devata",
+    "heroId": 75,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Trouble Makers",
+    "heroId": 94,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fiend Hunter",
+    "heroId": 39,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Empyrean Flame",
+    "heroId": 47,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Hawk-eyed Sniper",
+    "heroId": 53,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Twilight Charmer",
+    "heroId": 110,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Shura",
+    "heroId": 21,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Water Lily",
+    "heroId": 25,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Lethal Fang",
+    "heroId": 100,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Lady Vengeance",
+    "heroId": 63,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Celestial Safeguard",
+    "heroId": 111,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Phantom Ranger",
+    "heroId": 39,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "God of Mountains",
+    "heroId": 2,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Silver Edge",
+    "heroId": 3,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Aqua Pura",
+    "heroId": 5,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Gold Baron",
+    "heroId": 6,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "heroId": 7,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Street Enforcer",
+    "heroId": 9,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Bone Crusher",
+    "heroId": 10,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Loyal Spear",
+    "heroId": 16,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Imperial Warrior",
+    "heroId": 17,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "New Baron",
+    "heroId": 23,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Thunderfist",
+    "heroId": 26,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Death Ride",
+    "heroId": 32,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wheel of Justice",
+    "heroId": 40,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Future Cop",
+    "heroId": 90,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Operator CL",
+    "heroId": 13,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Naraka Flame",
+    "heroId": 85,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cosmic Gleam",
+    "heroId": 56,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Infernal Blaze",
+    "heroId": 57,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Deathrock",
+    "heroId": 58,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Celestial Bastion",
+    "heroId": 59,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Riverland Phoenix",
+    "heroId": 60,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Ruin Protectress",
+    "heroId": 102,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Fists of Valor",
+    "heroId": 113,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Blade of Kibou",
+    "heroId": 17,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Miss Hikari",
+    "heroId": 18,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Stargazer",
+    "heroId": 91,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Chaos Hunter",
+    "heroId": 107,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Golden Bullet",
+    "heroId": 65,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Hell Knight",
+    "heroId": 66,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Bloody Mary",
+    "heroId": 67,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "The Pale Phantom",
+    "heroId": 68,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Tiger's Claw",
+    "heroId": 69,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Steam Researcher",
+    "heroId": 70,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Lord of Wraith",
+    "heroId": 71,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "King of War",
+    "heroId": 73,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Ironfists",
+    "heroId": 77,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Twinge Weaver",
+    "heroId": 114,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Dream Groove",
+    "heroId": 101,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Heart Afloat",
+    "heroId": 17,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Space Agent",
+    "heroId": 105,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Heartstring",
+    "heroId": 55,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Moon Artist",
+    "heroId": 61,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fluffy Dream",
+    "heroId": 112,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Queen Frost",
+    "heroId": 90,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Verdict of Light",
+    "heroId": 115,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "V.E.N.O.M. Cobra",
+    "heroId": 85,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Bioroid",
+    "heroId": 2,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Light Envoy",
+    "heroId": 81,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Ore-chemist",
+    "heroId": 100,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fairytaler",
+    "heroId": 48,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "M-World Wanwan",
+    "heroId": 89,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Samba Muse",
+    "heroId": 52,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "M-World Ling",
+    "heroId": 84,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Psion of Tomorrow",
+    "heroId": 80,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "M-World Yin",
+    "heroId": 113,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fulgent Punch",
+    "heroId": 103,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Moonblade",
+    "heroId": 97,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Supernal Tempest",
+    "heroId": 75,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Grimlock",
+    "heroId": 39,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Starscream",
+    "heroId": 64,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Soundwave & Ravage",
+    "heroId": 94,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Shikigami Sumonner",
+    "heroId": 57,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Capricorn",
+    "heroId": 58,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Pinball Machine",
+    "heroId": 59,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Field Op",
+    "heroId": 60,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Silent Edge",
+    "heroId": 116,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Galactic Marshal",
+    "heroId": 6,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hierophant",
+    "heroId": 52,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Light Chaser",
+    "heroId": 105,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cyclone Clash",
+    "heroId": 5,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Elysium Guardian",
+    "heroId": 96,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Noble Crest",
+    "heroId": 109,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Captain Chrono",
+    "heroId": 107,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wicked Flames",
+    "heroId": 27,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Regal Renegade",
+    "heroId": 117,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Lord Shen",
+    "heroId": 84,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Space Mech",
+    "heroId": 93,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Barren Pioneer",
+    "heroId": 108,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Archmagister",
+    "heroId": 110,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Cosmic Voyage",
+    "heroId": 15,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Exorcist Kagura",
+    "heroId": 25,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Exorcist Yu Zhong",
+    "heroId": 95,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Libra Shiryu",
+    "heroId": 26,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Leo Ikki",
+    "heroId": 57,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Pegasus Seiya",
+    "heroId": 77,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sagittarius Seiya",
+    "heroId": 77,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dragon Shiryu",
+    "heroId": 26,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Phoenix Ikki",
+    "heroId": 57,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Crimson Wings",
+    "heroId": 91,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Feline Ranger",
+    "heroId": 118,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Rogue Talon",
+    "heroId": 88,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Circus Magician",
+    "heroId": 38,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fist of Light",
+    "heroId": 103,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Stellar Briliance",
+    "heroId": 105,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Son of the Wild",
+    "heroId": 37,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "War Chief",
+    "heroId": 99,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Doom Catalyst",
+    "heroId": 1,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Kung Fu Panda",
+    "heroId": 9,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Underworld Outlaw",
+    "heroId": 11,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Halo Striker",
+    "heroId": 12,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Neymar Jr",
+    "heroId": 12,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Crimson Blast",
+    "heroId": 13,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Angelic Sonata",
+    "heroId": 14,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Empyrean Paladin",
+    "heroId": 16,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Storm Rider",
+    "heroId": 16,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Techie Ninja",
+    "heroId": 21,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "S.A.B.E.R. Manhunter",
+    "heroId": 22,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Spring Blessings",
+    "heroId": 27,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Prismatic Plume",
+    "heroId": 29,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cyber Assassin",
+    "heroId": 109,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "New Moon",
+    "heroId": 61,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Iron Hound",
+    "heroId": 3,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Ancient Warden",
+    "heroId": 111,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wandering Spear",
+    "heroId": 120,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Mikasa",
+    "heroId": 17,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Diavel V4 Rider",
+    "heroId": 66,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Shadow Knight",
+    "heroId": 66,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Divine Goddess",
+    "heroId": 67,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Nature's Harmony",
+    "heroId": 67,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Undead King",
+    "heroId": 68,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "First Order Jet Trooper",
+    "heroId": 70,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "General Kai",
+    "heroId": 71,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Psychic",
+    "heroId": 72,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Blizzard Storm",
+    "heroId": 75,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Apophis",
+    "heroId": 78,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Exorcist Granger",
+    "heroId": 79,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hellbringer",
+    "heroId": 79,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Megatron",
+    "heroId": 79,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Flare",
+    "heroId": 82,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Moto Drifter",
+    "heroId": 83,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Eren",
+    "heroId": 113,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Yuji Itadori",
+    "heroId": 113,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "heroId": 114,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Satoru Gojo",
+    "heroId": 115,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Megumi Fushiguro",
+    "heroId": 116,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Quantum Grip",
+    "heroId": 100,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "War Lion",
+    "heroId": 108,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cyber Agent",
+    "heroId": 110,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Tidal Lord",
+    "heroId": 107,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Paw Power",
+    "heroId": 112,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Yokai Warlock",
+    "heroId": 33,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cyber Ranger",
+    "heroId": 54,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Avatar of Time",
+    "heroId": 55,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Soul Revelation",
+    "heroId": 56,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Earthen Relic",
+    "heroId": 59,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Moonlit Ninja",
+    "heroId": 60,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Soul Defiler",
+    "heroId": 11,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Violet Spear",
+    "heroId": 31,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Jellyman",
+    "heroId": 104,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Dark Star",
+    "heroId": 119,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Oracle of Sol",
+    "heroId": 96,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Sanctified Flame",
+    "heroId": 71,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Blazing Tiger",
+    "heroId": 103,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Rune of Sentinel",
+    "heroId": 93,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Jade Empress",
+    "heroId": 4,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Shifting Sand",
+    "heroId": 121,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Voidwalker",
+    "heroId": 122,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "War Lion",
+    "heroId": 73,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Eternal Guardian",
+    "heroId": 113,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Ice Talon",
+    "heroId": 40,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Hydromancer",
+    "heroId": 74,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "ECHO",
+    "heroId": 26,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Star Enforcer",
+    "heroId": 28,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Mecha Infernus",
+    "heroId": 93,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Neobeast Lylia",
+    "heroId": 86,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Neobeast Fredrinn",
+    "heroId": 117,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Vibrant Fiesta",
+    "heroId": 105,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Pulsar Prodigy",
+    "heroId": 42,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Black Tortoise",
+    "heroId": 87,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Inferno Taskmaster",
+    "heroId": 62,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Genki Slam",
+    "heroId": 20,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Starblazer",
+    "heroId": 32,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Twilight Waltz",
+    "heroId": 18,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "The Sun Empress",
+    "heroId": 38,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "General Void",
+    "heroId": 28,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Mecha Maiden",
+    "heroId": 29,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Doom Incarnate",
+    "heroId": 31,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Optimus Prime",
+    "heroId": 32,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Monster SP Rider",
+    "heroId": 43,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Panigale V4S Rider",
+    "heroId": 97,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fury of the Deep",
+    "heroId": 120,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Neon Shingetsu",
+    "heroId": 52,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Kannagi",
+    "heroId": 75,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Gentleman Thief",
+    "heroId": 78,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Iron Hook",
+    "heroId": 78,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Rustwreck",
+    "heroId": 82,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Red Bastion",
+    "heroId": 111,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Nightwalker",
+    "heroId": 114,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dimension Walker",
+    "heroId": 56,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Spirit of the Brush",
+    "heroId": 94,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dreadnought",
+    "heroId": 19,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cosmic Dragon",
+    "heroId": 95,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dragon's Shade",
+    "heroId": 95,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Vessel of Deceit",
+    "heroId": 109,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Celestial Judicator",
+    "heroId": 110,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Mistbender Nana",
+    "heroId": 5,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Vessel of Rage",
+    "heroId": 60,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Mistbender Aldous",
+    "heroId": 64,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Surging Torrent",
+    "heroId": 30,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Whimsical Carnival",
+    "heroId": 123,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Atomic Pop Miya",
+    "heroId": 1,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Infernal Warlord",
+    "heroId": 2,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Pumpkin Brawler",
+    "heroId": 9,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "King of Hell",
+    "heroId": 10,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Seraphic Selfie",
+    "heroId": 14,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Atomic Pop Eudora",
+    "heroId": 15,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Beyond the Clouds Kagura",
+    "heroId": 25,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "The Foreseer",
+    "heroId": 81,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Jewel Connoisseur",
+    "heroId": 117,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Royal Protector",
+    "heroId": 118,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Street Hype",
+    "heroId": 12,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Tide Preserver",
+    "heroId": 41,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Galactic Vanquisher",
+    "heroId": 22,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Levi",
+    "heroId": 58,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Temporal Vortex",
+    "heroId": 107,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Sugar Glaze",
+    "heroId": 119,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dragon of Prosperity",
+    "heroId": 16,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Alluring Enigma",
+    "heroId": 79,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Night Shade",
+    "heroId": 84,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Alluring Mystique",
+    "heroId": 90,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dynamic Streak",
+    "heroId": 121,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Adlaw's Chosen",
+    "heroId": 37,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Swordmaster",
+    "heroId": 47,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Deadeye Spectre",
+    "heroId": 53,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Tech Tensai",
+    "heroId": 61,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Quantum Edge",
+    "heroId": 97,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Blacklist International",
+    "heroId": 34,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "SPARKLE Estes",
+    "heroId": 34,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Blazing Trace",
+    "heroId": 65,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Challenger's Spark",
+    "heroId": 65,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 65,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cosmic Blaze",
+    "heroId": 65,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Earth's Mightiest",
+    "heroId": 65,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Heart Aflame",
+    "heroId": 65,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Lifeguard",
+    "heroId": 65,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Triumph - Eagle",
+    "heroId": 66,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Lightborn - Overrider",
+    "heroId": 79,
+    "rarity": "DELUXE",
+    "priceDiamond": 1080
+  },
+  {
+    "name": "Elegant Butterfly",
+    "heroId": 80,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Summer Breeze",
+    "heroId": 80,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Flames of Judgement",
+    "heroId": 82,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Beyond the Clouds Edith",
+    "heroId": 111,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "SPARKLE Melissa",
+    "heroId": 114,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Nexus Engineer",
+    "heroId": 124,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Twisted Fairytale",
+    "heroId": 38,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "SPARKLE Fredrinn",
+    "heroId": 117,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Magitech Arsenal",
+    "heroId": 86,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Mecha-King Perseus",
+    "heroId": 28,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sol Invictus",
+    "heroId": 73,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Concerto of Light",
+    "heroId": 75,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Infernal Wrymlord",
+    "heroId": 31,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Samurai Mech",
+    "heroId": 54,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Floral Elf",
+    "heroId": 55,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "K'",
+    "heroId": 56,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Kyo Kusanagi",
+    "heroId": 57,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Mai Shiranui",
+    "heroId": 88,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Terry Bogard",
+    "heroId": 103,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Astro Mallet",
+    "heroId": 20,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fashion Mogul",
+    "heroId": 122,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Wave Strider",
+    "heroId": 98,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Exorcist Hayabusa",
+    "heroId": 21,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dream Prowler",
+    "heroId": 51,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Soul Reaper",
+    "heroId": 29,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Dark Nexus",
+    "heroId": 110,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Bloodhoof Marauder",
+    "heroId": 49,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Victory Loader",
+    "heroId": 54,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Ethereal Serenity",
+    "heroId": 125,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Desert Spider",
+    "heroId": 56,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Verdant Lancer",
+    "heroId": 90,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Heart of the Sea",
+    "heroId": 74,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Paranormal Operative",
+    "heroId": 18,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Cosmo Guard",
+    "heroId": 84,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Flying Swallow",
+    "heroId": 89,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Classroom Charm",
+    "heroId": 90,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Yatai Waitress",
+    "heroId": 112,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Astral Arcana",
+    "heroId": 92,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Warrioress Paragon",
+    "heroId": 24,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Nutcracker Monarch",
+    "heroId": 41,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Darknet Temptress",
+    "heroId": 4,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Quantum Vanguard",
+    "heroId": 10,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Cyber Hacker",
+    "heroId": 23,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Wisdom of the Stars",
+    "heroId": 46,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Ironmane Reaver",
+    "heroId": 108,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "APBren",
+    "heroId": 100,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fist of Glory",
+    "heroId": 103,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Venerated Vigilance",
+    "heroId": 126,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Marvelous Maestro",
+    "heroId": 9,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Underwood Steward",
+    "heroId": 48,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Death's Shadow",
+    "heroId": 50,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Jade Blossom",
+    "heroId": 25,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Pasha of Justice",
+    "heroId": 6,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Darkwater Terror",
+    "heroId": 58,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Starwatcher",
+    "heroId": 20,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dauntless Shield",
+    "heroId": 87,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "The Navigator",
+    "heroId": 122,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Beyond the Clouds Xavier",
+    "heroId": 115,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hardlight Artificer",
+    "heroId": 115,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dragon's Maw",
+    "heroId": 13,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "High Seas Cadet",
+    "heroId": 70,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Symbol of Valor",
+    "heroId": 73,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Ardent Roar",
+    "heroId": 127,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Captain of the Reefs",
+    "heroId": 13,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Star Magician",
+    "heroId": 42,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Marques of Blades",
+    "heroId": 47,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Badlands Hiatus",
+    "heroId": 124,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Emberwisp Mystic",
+    "heroId": 125,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Veil of the Celestials",
+    "heroId": 36,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Razor Edge",
+    "heroId": 2,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Kurapika",
+    "heroId": 116,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Killua",
+    "heroId": 72,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Gon",
+    "heroId": 85,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Hisoka",
+    "heroId": 91,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Bloom of Abundance",
+    "heroId": 14,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sovereign of Realms",
+    "heroId": 32,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Azure Sentry",
+    "heroId": 30,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Checkered Knight",
+    "heroId": 43,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Rising Nova",
+    "heroId": 70,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Christmas Carnival",
+    "heroId": 72,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Soulblight Tyrant",
+    "heroId": 82,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Breath of Naraka",
+    "heroId": 40,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Guardian of the Shrine",
+    "heroId": 47,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Duchess of Tides",
+    "heroId": 53,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Strings of Fate",
+    "heroId": 55,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sunken Predator",
+    "heroId": 99,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Pecados Rioter",
+    "heroId": 83,
+    "rarity": "COMMON",
+    "priceDiamond": 599
+  },
+  {
+    "name": "Crescent Dervish",
+    "heroId": 29,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Neon Edge",
+    "heroId": 29,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Circus Reverie",
+    "heroId": 123,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dreambound Pixie",
+    "heroId": 101,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Melody of Light",
+    "heroId": 112,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Curse of Cinder",
+    "heroId": 63,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Demon's Bane",
+    "heroId": 7,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Phantom Mirage",
+    "heroId": 97,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Desert Salamander",
+    "heroId": 98,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Shimmering Waves",
+    "heroId": 128,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Revenant of Roses",
+    "heroId": 28,
+    "rarity": "SUPREME",
+    "priceDiamond": null
+  },
+  {
+    "name": "Exostar Scout",
+    "heroId": 118,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Mecha Dragon",
+    "heroId": 65,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Butterfly Seraphim",
+    "heroId": 67,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Arbiter of Stars",
+    "heroId": 69,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Frost Wing",
+    "heroId": 70,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Abyssal Reaper",
+    "heroId": 71,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "EVOS Legends",
+    "heroId": 72,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Keeper of the Winds",
+    "heroId": 75,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Lady Crane",
+    "heroId": 80,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Astral Muse",
+    "heroId": 81,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Bumblebee",
+    "heroId": 83,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Prismatic Sentinel",
+    "heroId": 111,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Umbra Bloom",
+    "heroId": 114,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Neobeast Pharsa",
+    "heroId": 52,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Neobeast Ling",
+    "heroId": 84,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Neobeast Brody",
+    "heroId": 100,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Arrow of Springs",
+    "heroId": 1,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Nightowl Huntress",
+    "heroId": 1,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Kakashi Hatake",
+    "heroId": 21,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Gaara",
+    "heroId": 75,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sasuke Uchiha",
+    "heroId": 126,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Naruto Uzumaki",
+    "heroId": 127,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sakura Haruno",
+    "heroId": 128,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Arcane Magistrate",
+    "heroId": 34,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Imperator Vitalis",
+    "heroId": 23,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Nightmare Count",
+    "heroId": 66,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Meowkin Warden",
+    "heroId": 90,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Moonglow Troupe",
+    "heroId": 61,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Enigmatic Wayfarer",
+    "heroId": 76,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Heavenly Splendor",
+    "heroId": 129,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Proto Hunter",
+    "heroId": 94,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Matrix Maverick",
+    "heroId": 106,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Soulfire Netherlord",
+    "heroId": 68,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Meowkin Hunter",
+    "heroId": 53,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Proto Guardian",
+    "heroId": 54,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Summer Splash",
+    "heroId": 89,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Starborne Matron",
+    "heroId": 96,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Archon of Knowledge",
+    "heroId": 107,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Maiden of the Tide",
+    "heroId": 74,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Meowkin Tracker",
+    "heroId": 116,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Invoker's Restraint",
+    "heroId": 39,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Invoker's Flame",
+    "heroId": 83,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Invoker's Command",
+    "heroId": 121,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Undying Remnants",
+    "heroId": 130,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Kaiju of the Deep",
+    "heroId": 51,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Aeon of Twilight",
+    "heroId": 120,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Dreaming Koi",
+    "heroId": 42,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Song of Devotion",
+    "heroId": 46,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Blade of Devotion",
+    "heroId": 47,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Eternal Vow",
+    "heroId": 38,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Sunken Curse",
+    "heroId": 93,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Midnight's Allure",
+    "heroId": 15,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Auspicious Blaze",
+    "heroId": 66,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Neonscape Icon",
+    "heroId": 60,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Twin Crescent",
+    "heroId": 60,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Captain of the Lost",
+    "heroId": 10,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Herald of Autumn",
+    "heroId": 112,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Sanguine Steward",
+    "heroId": 107,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Phantasmal Revelry",
+    "heroId": 86,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Split Shadows",
+    "heroId": 132,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Gilded Embers",
+    "heroId": 133,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Smouldering Fortress",
+    "heroId": 69,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Raiden Maru",
+    "heroId": 45,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Fangs of Slaughter",
+    "heroId": 68,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Stardust Dreamer",
+    "heroId": 5,
+    "rarity": "DELUXE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Quantum Commando",
+    "heroId": 77,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": 749
+  },
+  {
+    "name": "Nether Overseer",
+    "heroId": 19,
+    "rarity": "DELUXE",
+    "priceDiamond": 899
+  },
+  {
+    "name": "Scarlet Musketeer",
+    "heroId": 13,
+    "rarity": "COMMON",
+    "priceDiamond": 269
+  },
+  {
+    "name": "Windborne Waltz",
+    "heroId": 75,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Flamehide Thane",
+    "heroId": 94,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Starforger's Glory",
+    "heroId": 26,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Arcane Verdict",
+    "heroId": 101,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Golden Osmanthus",
+    "heroId": 61,
+    "rarity": "COMMON",
+    "priceDiamond": null
+  },
+  {
+    "name": "Kitsune's Shadow",
+    "heroId": 21,
+    "rarity": "EXCEPTIONAL",
+    "priceDiamond": null
+  },
+  {
+    "name": "Celestial Rebel",
+    "heroId": 27,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Prismatic Rhythm",
+    "heroId": 18,
+    "rarity": "EXQUISITE",
+    "priceDiamond": null
+  },
+  {
+    "name": "Silverbolt Raiko",
+    "heroId": 63,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  },
+  {
+    "name": "Imperatrix Arashi",
+    "heroId": 130,
+    "rarity": "GRAND",
+    "priceDiamond": null
+  }
+]
