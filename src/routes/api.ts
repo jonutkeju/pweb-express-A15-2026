@@ -186,4 +186,124 @@ router.get("/skins/:skin_id", async (req, res) => {
   res.json({ status: true, message: "Berhasil mengambil detail skin", data: skin });
 });
 
+router.post("/players", async (req, res) => {
+  const nickname = requiredText(requireBody(req).nickname, "nickname");
+  if (await prisma.player.findUnique({ where: { nickname }, select: { id: true } })) {
+    throw new HttpError(409, "Nickname sudah digunakan");
+  }
+
+  const player = await prisma.player.create({ data: { nickname } });
+  res
+    .status(201)
+    .json({ status: true, message: "Player berhasil dibuat", data: player });
+});
+
+router.get("/players/:player_id", async (req, res) => {
+  const id = positiveInteger(req.params.player_id, "player_id");
+  const player = await prisma.player.findUnique({
+    where: { id },
+    include: {
+      playerHeroes: {
+        include: { hero: { select: { name: true } } },
+        orderBy: { id: "asc" },
+      },
+    },
+  });
+  if (!player) throw new HttpError(404, "Player tidak ditemukan");
+
+  const { playerHeroes, ...playerData } = player;
+  const heroes = playerHeroes.map(({ heroId, hero, currency, pricePaid }) => ({
+    heroId,
+    name: hero.name,
+    currency,
+    pricePaid,
+  }));
+  res.json({
+    status: true,
+    message: "Berhasil mengambil data player",
+    data: { ...playerData, heroes },
+  });
+});
+
+router.patch("/players/:player_id", async (req, res) => {
+  const id = positiveInteger(req.params.player_id, "player_id");
+  const existingPlayer = await prisma.player.findUnique({ where: { id } });
+  if (!existingPlayer) throw new HttpError(404, "Player tidak ditemukan");
+
+  const nickname = requiredText(requireBody(req).nickname, "nickname");
+  const duplicate = await prisma.player.findFirst({
+    where: { nickname, NOT: { id } },
+    select: { id: true },
+  });
+  if (duplicate) throw new HttpError(409, "Nickname sudah digunakan");
+
+  const player = await prisma.player.update({ where: { id }, data: { nickname } });
+  res.json({ status: true, message: "Nickname player berhasil diperbarui", data: player });
+});
+
+router.delete("/players/:player_id", async (req, res) => {
+  const id = positiveInteger(req.params.player_id, "player_id");
+  if (!(await prisma.player.findUnique({ where: { id }, select: { id: true } }))) {
+    throw new HttpError(404, "Player tidak ditemukan");
+  }
+  await prisma.player.delete({ where: { id } });
+  res.json({
+    status: true,
+    message: "Player berhasil dihapus",
+    data: { playerId: id },
+  });
+});
+
+router.post("/players/:player_id/topup", async (req, res) => {
+  const amount = positiveInteger(requireBody(req).amount, "amount");
+  const playerId = positiveInteger(req.params.player_id, "player_id");
+  const player = await prisma.player.update({
+    where: { id: playerId },
+    data: { diamond: { increment: amount } },
+    select: { id: true, diamond: true },
+  }).catch((error: unknown) => {
+    if (
+      error instanceof Prisma.PrismaClientKnownRequestError &&
+      error.code === "P2025"
+    ) {
+      throw new HttpError(404, "Player tidak ditemukan");
+    }
+    throw error;
+  });
+
+  res.json({
+    status: true,
+    message: "Top up berhasil",
+    data: { playerId: player.id, amount, diamond: player.diamond },
+  });
+});
+
+router.post("/players/:player_id/matches", async (req, res) => {
+  const result = requireBody(req).result;
+  if (result !== "WIN" && result !== "LOSE") {
+    throw new HttpError(400, "result harus WIN atau LOSE");
+  }
+  const playerId = positiveInteger(req.params.player_id, "player_id");
+  const bpEarned = result === "WIN" ? 300 : 100;
+  const player = await prisma.player.update({
+    where: { id: playerId },
+    data: { bp: { increment: bpEarned } },
+    select: { id: true, bp: true },
+  }).catch((error: unknown) => {
+    if (
+      error instanceof Prisma.PrismaClientKnownRequestError &&
+      error.code === "P2025"
+    ) {
+      throw new HttpError(404, "Player tidak ditemukan");
+    }
+    throw error;
+  });
+
+  res.json({
+    status: true,
+    message: "Hadiah match berhasil ditambahkan",
+    data: { playerId: player.id, result, bpEarned, bp: player.bp },
+  });
+});
+
 export default router;
