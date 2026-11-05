@@ -1,4 +1,4 @@
-﻿import { Lane, Prisma, Rarity, Role } from "@prisma/client";
+import { Currency, Lane, Prisma, Rarity, Role } from "@prisma/client";
 import { Router } from "express";
 import type { Request, Response } from "express";
 import { HttpError } from "../lib/http-error.js";
@@ -9,6 +9,7 @@ const router = Router();
 const roles = Object.values(Role);
 const lanes = Object.values(Lane);
 const rarities = Object.values(Rarity);
+const currencies = Object.values(Currency);
 
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null && !Array.isArray(value);
@@ -303,6 +304,124 @@ router.post("/players/:player_id/matches", async (req, res) => {
     status: true,
     message: "Hadiah match berhasil ditambahkan",
     data: { playerId: player.id, result, bpEarned, bp: player.bp },
+  });
+});
+
+router.post("/players/:player_id/heroes", async (req, res) => {
+  const body = requireBody(req);
+  const heroId = positiveInteger(body.heroId, "heroId");
+  const currency = enumValue(body.currency, currencies, "currency");
+  const playerId = positiveInteger(req.params.player_id, "player_id");
+
+  const player = await prisma.player.findUnique({ where: { id: playerId } });
+  if (!player) throw new HttpError(404, "Player tidak ditemukan");
+
+  const hero = await prisma.hero.findUnique({ where: { id: heroId } });
+  if (!hero) throw new HttpError(404, "Hero tidak ditemukan");
+
+  const price = currency === Currency.BP ? hero.priceBP : hero.priceDiamond;
+  if (price === null) {
+    throw new HttpError(400, `Hero ${hero.name} tidak bisa dibeli dengan ${currency}`);
+  }
+
+  const ownedHero = await prisma.playerHero.findUnique({
+    where: { playerId_heroId: { playerId, heroId } },
+    select: { id: true },
+  });
+  if (ownedHero) throw new HttpError(409, "Player sudah memiliki hero ini");
+
+  const balance = currency === Currency.BP ? player.bp : player.diamond;
+  if (balance < price) throw new HttpError(400, "Saldo player tidak mencukupi");
+
+  const purchase = await prisma.$transaction(async (transaction) => {
+    const updated = await transaction.player.updateMany({
+      where: {
+        id: playerId,
+        [currency === Currency.BP ? "bp" : "diamond"]: { gte: price },
+      },
+      data: {
+        [currency === Currency.BP ? "bp" : "diamond"]: { decrement: price },
+      },
+    });
+    if (updated.count === 0) {
+      throw new HttpError(400, "Saldo player tidak mencukupi");
+    }
+
+    const updatedPlayer = await transaction.player.findUniqueOrThrow({
+      where: { id: playerId },
+      select: { bp: true, diamond: true },
+    });
+    await transaction.playerHero.create({
+      data: { playerId, heroId, currency, pricePaid: price },
+    });
+    return updatedPlayer;
+  });
+
+  res.status(201).json({
+    status: true,
+    message: "Hero berhasil dibeli",
+    data: {
+      hero: { id: hero.id, name: hero.name },
+      currency,
+      pricePaid: price,
+      balance: { bp: purchase.bp, diamond: purchase.diamond },
+    },
+  });
+});
+
+router.get("/statistics", async (_req, res) => {
+  const [
+    totalPlayers,
+    totalHeroesOwned,
+    diamondAggregate,
+    ownershipGroups,
+    roleGroups,
+  ] = await Promise.all([
+    prisma.player.count(),
+    prisma.playerHero.count(),
+    prisma.player.aggregate({ _sum: { diamond: true } }),
+    prisma.playerHero.groupBy({
+      by: ["heroId"],
+      _count: { heroId: true },
+      orderBy: { _count: { heroId: "desc" } },
+      take: 1,
+    }),
+    prisma.hero.groupBy({
+      by: ["role"],
+      _count: { role: true },
+      orderBy: { role: "asc" },
+    }),
+  ]);
+
+  const mostOwnedGroup = ownershipGroups[0];
+  const mostOwnedHero = mostOwnedGroup
+    ? await prisma.hero.findUnique({
+        where: { id: mostOwnedGroup.heroId },
+        select: { id: true, name: true },
+      }).then((hero) =>
+        hero
+          ? {
+              heroId: hero.id,
+              name: hero.name,
+              owners: mostOwnedGroup._count.heroId,
+            }
+          : null,
+      )
+    : null;
+
+  res.json({
+    status: true,
+    message: "Berhasil mengambil statistik",
+    data: {
+      totalPlayers,
+      totalHeroesOwned,
+      totalDiamond: diamondAggregate._sum.diamond ?? 0,
+      mostOwnedHero,
+      heroesPerRole: roleGroups.map(({ role, _count }) => ({
+        role,
+        total: _count.role,
+      })),
+    },
   });
 });
 
