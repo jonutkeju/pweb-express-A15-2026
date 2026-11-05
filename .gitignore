@@ -4,3 +4,6 @@ node_modules/
 !.env.example
 dist/
 coverage/
+node_modules
+dist
+.env
